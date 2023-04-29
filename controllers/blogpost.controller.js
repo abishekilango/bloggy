@@ -1,5 +1,5 @@
 const axios = require('axios').default;
-axios.defaults.baseURL = 'https://murmuring-citadel-74728.herokuapp.com/api';
+axios.defaults.baseURL = 'https://bloggy-c8e8.onrender.com/api';
 
 const Blogpost = require('../models/blogpost.model');
 
